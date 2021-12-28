@@ -6,6 +6,8 @@ Guide to automating Google form submissions. Mostly proof of concept; don't scre
 
 The `automated.py` script scrapes forms and automates the setup/submission process for you.
 
+<img src="https://user-images.githubusercontent.com/77910109/147603875-7726ac8a-36e0-477d-8623-baad371e77ee.png" height="75%" width="75%"/>
+
 If this doesn't work try the manual method.
 
 Note that this requires Python 3.10 as well as [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and [Requests](https://pypi.org/project/requests/).
@@ -16,7 +18,7 @@ ___
 
 **1. Fill out the form.**
 
-<img src="https://user-images.githubusercontent.com/77910109/147497398-35f06f78-3c7d-498f-bfbe-fea8a03c7dce.png" height="90%" width="90%"/>
+<img src="https://user-images.githubusercontent.com/77910109/147497398-35f06f78-3c7d-498f-bfbe-fea8a03c7dce.png" height="50%" width="50%"/>
 
 ___
 
@@ -109,7 +111,7 @@ ___
 
 **7. Run**
 
-<img src="https://user-images.githubusercontent.com/77910109/147498948-d47d0443-9bf7-4b41-89ef-00834a9ec4ec.png" height="90%" width="90%"/>
+<img src="https://user-images.githubusercontent.com/77910109/147498948-d47d0443-9bf7-4b41-89ef-00834a9ec4ec.png" height="75%" width="75%"/>
 
 ___
 
