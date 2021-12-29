@@ -1,6 +1,6 @@
 # Google Form Spamming
 
-Guide to automating Google form submissions. Mostly proof of concept; don't screw around too much with this.
+Guide to automating Google form submissions.
 
 ## Automated Setup
 
@@ -10,7 +10,7 @@ The `automated.py` script scrapes forms and automates the setup/submission proce
 
 If this doesn't work try the manual method.
 
-Note that this requires Python 3.10 as well as [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and [Requests](https://pypi.org/project/requests/).
+(Requires Python 3.10 as well as [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and [Requests](https://pypi.org/project/requests/))
 
 
 ## Manual Setup Method
